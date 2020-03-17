@@ -1,6 +1,6 @@
-public class Opgave2{
+public class Opgave02{
 
-	public Opgave2(int max){
+	public Opgave02(int max){
 		System.out.println("Opgave 2 - Lige numre:");
 		printEvenNumbers(max);
 	}

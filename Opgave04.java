@@ -1,6 +1,6 @@
-public class Opgave4{
+public class Opgave04{
 
-	public Opgave4(int first){
+	public Opgave04(int first){
 		System.out.println("Opgave 4 - Summen af en int:");
 		System.out.println(sumDigits(first));
 	}

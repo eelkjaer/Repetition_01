@@ -1,6 +1,6 @@
-public class Opgave3{
+public class Opgave03{
 
-	public Opgave3(int first, int second, int third){
+	public Opgave03(int first, int second, int third){
 		System.out.println("Opgave 3 - Mindst absolute værdi:");
 		System.out.println(smallestAbsVal(first,second,third));
 	}

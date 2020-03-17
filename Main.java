@@ -1,23 +1,23 @@
 public class Main{
 
 	public static void main(String[] args){
-		// Opgave1 min = new Opgave1(19,27,6);
+		// Opgave01 min = new Opgave01(19,27,6);
 
-		// Opgave2 evenNumbers = new Opgave2(12);
+		// Opgave02 evenNumbers = new Opgave02(12);
 
-		// Opgave3 smallestAbsVal = new Opgave3(-8,2,12);
+		// Opgave03 smallestAbsVal = new Opgave03(-8,2,12);
 
-		// Opgave4 fourth = new Opgave4(931);
+		// Opgave04 fourth = new Opgave04(931);
 
-		// Opgave5 fifth = new Opgave5();
+		// Opgave05 fifth = new Opgave05("Laptop");
 
-		// Opgave6 sixth = new Opgave6();
+		// Opgave06 sixth = new Opgave06("Hej");
 
-		// Opgave7 seventh = new Opgave7();
+		Opgave07 seventh = new Opgave07(4);
 
-		// Opgave8 eight = new Opgave8();
+		// Opgave08 eight = new Opgave08();
 
-		// Opgave9 nineth = new Opgave9();
+		// Opgave09 nineth = new Opgave09();
 
 		// Opgave10 elleven = new Opgave10();
 
